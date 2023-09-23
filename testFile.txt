@@ -5,7 +5,7 @@ Name:
 3.Utsavkumar Vasani
 4.Usman Khwaja
 5.Frank LeFebvre
-6.Kunlek Tenzing
+6. Abdul Azeem Mohammed
 7.Sathvika Karri
 8.Harsh Mankar
 9.Vaibhavi Rana
@@ -13,7 +13,7 @@ Name:
 11.Vinay Sai Teja Gamidi
 12.Dhruval Dhameliya
 13.Samantha Paradero
-14.
+14.Kunlek Tenzing
 15.
 16.
 17.
